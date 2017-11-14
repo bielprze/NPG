@@ -27,3 +27,4 @@ class MainWindow : public Gtk::Window
 
 #endif	/* MAINWINDOW_HPP */
 
+//komentarz dodany w branch_2
