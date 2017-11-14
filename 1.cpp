@@ -1,7 +1,12 @@
 
 // GTKmm and User interface includes
+<<<<<<< HEAD
 #include "MainWindow.hpp"
 ##include <gtkmm/application.h>
+=======
+#include "MainWindow.hpp" //razdwatrzy
+#include <gtkmm/application.h>
+>>>>>>> 9b6964124cf8975643efc01e3ca2be3442cc2572
 
 int main(int argc, char** argv)
 {
