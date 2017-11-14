@@ -14,7 +14,7 @@ int main(int argc, char** argv)
     
     MainWindow mwindow;
     
-    app->run (mwindow);
+    app->run (mwindow); //razdwa
     
     //video_thread.join ();
     
