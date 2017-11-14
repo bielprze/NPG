@@ -1,4 +1,4 @@
-
+//Master - komentarz dodany z branch master
 // GTKmm and User interface includes
 <<<<<<< HEAD
 #include "MainWindow.hpp"
