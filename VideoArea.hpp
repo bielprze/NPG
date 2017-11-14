@@ -26,4 +26,5 @@ class VideoArea : public Gtk::DrawingArea
 };
 
 #endif	/* VIDEOAREA_HPP */
-
+//komentarz dodany w branch_2
+//komentarz dodany w branch_2
