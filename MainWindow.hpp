@@ -1,4 +1,4 @@
-/* 
+/*  //Master - komentarz dodany z branch master
  * File:   MainWindow.hpp
  * Author: imam
  *
