@@ -16,3 +16,16 @@ int main(int argc, char** argv)
     return 0;
 }
 
+//komentarz dodany w branch_2
+//komentarz dodany w branch_2
+//komentarz dodany w branch_2
+//komentarz dodany w branch_2
+//komentarz dodany w branch_2
+//komentarz dodany w branch_2
+//komentarz dodany w branch_2
+//komentarz dodany w branch_2
+//komentarz dodany w branch_2
+//komentarz dodany w branch_2
+//komentarz dodany w branch_2
+//komentarz dodany w branch_2
+//komentarz dodany w branch_2
