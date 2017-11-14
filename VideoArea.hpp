@@ -1,4 +1,4 @@
-/* 
+/* //Master - komentarz dodany z branch master
  * File:   VideoArea.hpp
  * Author: imam
  *
@@ -26,4 +26,5 @@ class VideoArea : public Gtk::DrawingArea
 };
 
 #endif	/* VIDEOAREA_HPP */
-
+//Master - komentarz dodany z branch master
+//Master - komentarz dodany z branch master
