@@ -14,7 +14,11 @@ int main(int argc, char** argv)
     
     MainWindow mwindow;
     
+<<<<<<< HEAD
     app->run (mwindow); //razdwa
+=======
+    app->run (mwindow); //drugikomentarz
+>>>>>>> 527c892bd814866131cc8addd8a39906aebb7bf8
     
     //video_thread.join ();
     
