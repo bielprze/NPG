@@ -27,5 +27,5 @@ MainWindow::MainWindow()
 
 MainWindow::~MainWindow()
 {
-
+    //komentarz dodany w branch_2
 }
