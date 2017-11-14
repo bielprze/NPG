@@ -1,4 +1,4 @@
-#include "MainWindow.hpp"
+#include "MainWindow.hpp" //Master - komentarz dodany z branch master
 
 MainWindow::MainWindow()
 {
