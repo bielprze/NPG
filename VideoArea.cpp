@@ -48,4 +48,4 @@ bool VideoArea::on_draw(const Cairo::RefPtr<Cairo::Context> &cr)
     cr->paint();
         
     return true;
-}
+}//komentarz dodany w branch_2
