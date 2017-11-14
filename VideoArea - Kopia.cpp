@@ -1,5 +1,5 @@
 #include "VideoArea.hpp"
-
+//Master - komentarz dodany z branch master
 #include <gdkmm/pixbuf.h>
 #include <gdkmm/general.h>
 #include <glibmm/main.h>
