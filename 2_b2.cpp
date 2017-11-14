@@ -2,7 +2,7 @@
 
 MainWindow::MainWindow()
 {
-
+    //com
     set_title ("OpenCV with GTK");
 
     set_border_width (10);
