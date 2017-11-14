@@ -1,6 +1,8 @@
+//Master - komentarz dodany z branch master
+//Master - komentarz dodany z branch master
 /* 
  * File:   VideoArea.hpp
- * Author: imam
+ * 
  *
  * Created on 3 October 2015, 1:03 AM
  */
