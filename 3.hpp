@@ -1,6 +1,6 @@
 /* 
  * File:   MainWindow.hpp
- * Author: imam
+ * //Master - komentarz dodany z branch master
  *
  * Created on 25 September 2015, 7:52 PM
  */
